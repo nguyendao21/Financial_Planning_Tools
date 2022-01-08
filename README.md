@@ -44,8 +44,17 @@ import datetime as datetime
 
 ### *Example*
 
+*A visulaize chart that show your total investments portfolio*
 
+![Portfolio_pie_chart](https://user-images.githubusercontent.com/94591580/148632707-43709b35-400e-485d-b68d-3a6e8e7acc86.png)
 
+*An example of Monta Carlo Simulation model*
+
+![5-4-monte-carlo-line-plot](https://user-images.githubusercontent.com/94591580/148632706-eeacc5c1-cf0f-4725-94b6-e581c5a44e47.png)
+
+*Histogram chart provide the materials for aggeration process*
+
+![5-4-monte-carlo-histogram](https://user-images.githubusercontent.com/94591580/148632705-7ae51a04-afb1-4bac-85a5-dc273f5156bf.png)
 
 
 ---
